@@ -1,0 +1,17 @@
+#above-notes {
+    text-align: center;
+    margin: 0.5rem;
+}
+
+#notes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.note {
+    border: 0.05rem solid #000;
+    padding: 1rem;
+    text-align: center;
+    margin: 0.2rem;
+}
